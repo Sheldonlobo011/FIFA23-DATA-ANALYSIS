@@ -17,7 +17,7 @@ This project involves analyzing FIFA 23 player data to optimize national footbal
 ### Best Overal team 
 - The 4-4-3 squad formation provides the highest overall rating for Overall best team in FIFA 23
 - The overall best squad includes top-performing players
-- Best Position                            Player Overall Age           Club Name Value(in Euro) Wage(in Euro)
+Best Position                            Player Overall Age           Club Name Value(in Euro) Wage(in Euro)
            GK                  Thibaut Courtois      90  30      Real Madrid CF       90000000        250000
            RB                       Kyle Walker      85  32     Manchester City       37500000        170000
            CB                   Virgil van Dijk      90  30           Liverpool       98000000        230000
