@@ -22,7 +22,7 @@ This project involves analyzing FIFA 23 player data to optimize national footbal
 - RB                       Kyle Walker      85  32     Manchester City       37500000        170000
 - CB                   Virgil van Dijk      90  30           Liverpool       98000000        230000
 - CB      Rúben Santos Gato Alves Dias      88  25     Manchester City      107500000        230000
-- LB         João Pedro Cavaco Cancelo      88  28     Manchester City       82500000        250000
+- LB         João Pedro Cavaco Cancelo      88  28     Manchester City       82500000        250000 
 - CDM Carlos Henrique Venancio Casimiro      89  30   Manchester United       86000000        240000
 - CM                   Kevin De Bruyne      91  31     Manchester City      107500000        350000
 - CAM                      Lionel Messi      91  35 Paris Saint-Germain       54000000        195000
