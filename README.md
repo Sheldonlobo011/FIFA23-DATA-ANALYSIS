@@ -30,6 +30,7 @@ This project involves analyzing FIFA 23 player data to optimize national footbal
            ST                Robert Lewandowski      91  33        FC Barcelona       84000000        420000
            LW        Neymar da Silva Santos Jr.      89  30 Paris Saint-Germain       99500000        200000
 
+
  - The 4-4-2 squad formation provides the highest overall rating for Overall best team in FIFA 23
 - The overall best squad includes top-performing players
 - Best Position                       Player Overall Age           Club Name Value(in Euro) Wage(in Euro)
